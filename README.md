@@ -7,6 +7,7 @@ The styling has been touched up to be more condensed and readable for anyone els
 The skeleton of the website has also had a touch up allowing the sections to be more semantic in order a a basic webpage.
 
 Below is a screen shot of the refactored website:
+![Screen Shot 2024-03-17 at 3 09 55 PM](https://github.com/Dhicks-dev/HTML-CSS-and-Git-Code-Refactor/assets/72946905/a5d4d2b7-ecde-402d-a6e1-39430a0727df)
 
 
 Below is the link to the refactored website:
